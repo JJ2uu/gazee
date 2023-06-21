@@ -3,8 +3,7 @@
 
 <p align="center"><img src="https://github.com/JJ2uu/gazee/blob/9ce91e73bd38717cc4f5cf86aef6588deb5052cd/gazee/src/main/webapp/resources/img/gazee_logo.png" width="300px"></p>
 
-
-#
+<br>
 
 ### :pushpin: 소개
 [가지가지]는 자체 선불충전금 서비스인 '가지머니'를 통해 안정성을 고려한 중고거래 서비스를 제공합니다.
